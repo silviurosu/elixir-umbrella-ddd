@@ -10,4 +10,4 @@ config :api, Api.Endpoint,
 config :logger, level: :warn
 
 config :api,
-       carts_service: Api.ServiceMock
+  carts_service: Api.ServiceMock

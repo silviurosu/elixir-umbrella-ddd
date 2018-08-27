@@ -5,7 +5,6 @@ defmodule ShoppingDb.CreateCart.DbGatewayTest do
 
   alias ShoppingDb.CreateCart.DbGateway
 
-  alias RestaurantsDbBehaviour.RestaurantBO
   alias ShoppingDbBehaviour.CreateCart.BO.ShoppingCart, as: ShoppingCartBO
 
   test "create_cart" do

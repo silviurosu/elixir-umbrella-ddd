@@ -1,5 +1,4 @@
 defmodule RestaurantsDb.LoadRestaurant.DbGatewayTest do
-
   use RestaurantsDb.ModelCase
 
   import RestaurantsDb.Factories.Restaurant
